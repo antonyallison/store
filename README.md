@@ -5,6 +5,7 @@
 | 软件名称                  | 简介 / 功能描述                        | 来源 / 项目地址                                                                           |
 | --------------------- | -------------------------------- | ----------------------------------------------------------------------------------- |
 | luci-app-passwall     | 代理工具           | [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall)       |
+| luci-app-rtp2httpd    | 多媒体流转发服务器         | [stackia/rtp2httpd](https://github.com/stackia/rtp2httpd)       |
 | luci-app-store        | iStore应用商店             | [linkease/luci-app-store](https://github.com/linkease/istore)                 |                                         
 | luci-app-turboacc     | TurboACC 网络加速器（集成BBR、shortcut）   | [chenmozhijin/turboacc](https://github.com/wukongdaily/store/tree/master/run/x86/luci-app-turboacc) |
 | luci-theme-kucat      | 酷猫主题                  | [sirpdboy/luci-theme-kucat](https://github.com/sirpdboy/luci-theme-kucat)                 |
