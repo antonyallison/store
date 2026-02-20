@@ -7,7 +7,6 @@
 | luci-app-passwall     | 代理工具           | [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall)       |
 | luci-app-rtp2httpd    | 多媒体流转发服务器         | [stackia/rtp2httpd](https://github.com/stackia/rtp2httpd)       |              |                                         
 | luci-app-turboacc     | TurboACC 网络加速器（集成BBR、shortcut）   | [chenmozhijin/turboacc](https://github.com/wukongdaily/store/tree/master/run/x86/luci-app-turboacc) |
-| luci-theme-kucat      | 酷猫主题                  | [sirpdboy/luci-theme-kucat](https://github.com/sirpdboy/luci-theme-kucat)                 |
-| luci-theme-design     | design主题 for ImmortalWrt               | [Paddy0219/luci-theme-design](https://github.com/Paddy0219/luci-theme-design666/tree/main/luci-theme-design))                |   
+| luci-theme-kucat      | 酷猫主题                  | [sirpdboy/luci-theme-kucat](https://github.com/sirpdboy/luci-theme-kucat)                 |            |   
 | luci-app-mosdns                | 高性能 DNS 分流器，支持 DoH/DoQ 等         | [sbwml/luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns)                     |
 
